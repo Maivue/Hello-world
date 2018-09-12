@@ -1,2 +1,4 @@
 # Hello-world
-First repository excercise
+
+Hello Humans!
+New to GitHub and using this as an excercise. 
